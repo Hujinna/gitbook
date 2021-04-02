@@ -1,0 +1,23 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "- [简介](README.md) - [第一章](ch01.md) - [第二章]( ch02.md )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hujinna/gitbook.git"
+  },
+  "keywords": [],
+  "author": "hujinna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hujinna/gitbook/issues"
+  },
+  "homepage": "https://github.com/Hujinna/gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
